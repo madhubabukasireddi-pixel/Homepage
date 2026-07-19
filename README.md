@@ -1,2 +1,2 @@
 # Homepage
-information
+information about the pages
